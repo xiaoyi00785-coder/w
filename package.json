@@ -1,0 +1,1 @@
+{"name": "backend","version": "1.0.0","description": "Backend package for the project","main": "index.js","scripts": {"test": "echo 'Error: no test specified' && exit 1"},"author": "xiaoyi00785-coder","license": "ISC"}
